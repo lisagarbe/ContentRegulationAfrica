@@ -1,4 +1,4 @@
-ContentRegulationsAfrica
+#ContentRegulationsAfrica
 
 This repository contains R Code to replicate the study 'How African countries respond to fake news and hate speech'
 
